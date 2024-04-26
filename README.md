@@ -51,8 +51,9 @@ This program is made for kids. They can draw some figures in the drawing area an
 ### Some Examples
 
 #### Draw Figures
-![Figure Example](![image](https://github.com/yaraFarouk/Paint_for_kids_game/assets/142579909/40a2b768-7248-43bc-83ff-212f0dd3194a)
- "Figure Example")
+![Alt text](![Screenshot 2024-04-26 122428](https://github.com/yaraFarouk/Paint_for_kids_game/assets/142579909/1f8330e0-3c7b-4d2c-a48d-e79c8186f5e8)
+ "Draw Figures")
+
 
 #### Color
 

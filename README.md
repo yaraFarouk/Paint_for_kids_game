@@ -1,5 +1,4 @@
-# Paint_for_kids_game.
-# Paint For Kids
+# Paint For Kids Game
 
 ## Program Explanation
 

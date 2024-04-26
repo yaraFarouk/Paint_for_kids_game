@@ -56,12 +56,16 @@ This program is made for kids. They can draw some figures in the drawing area an
 
 
 #### Color
+![image](https://github.com/yaraFarouk/Paint_for_kids_game/assets/142579909/765d1344-a32b-4187-bf2d-69e0298a9064)
 
 #### Pick Figure
+![image](https://github.com/yaraFarouk/Paint_for_kids_game/assets/142579909/577d5cd7-02c8-4174-ab8f-9873bf86622a)
 
 #### Pick Color
+![image](https://github.com/yaraFarouk/Paint_for_kids_game/assets/142579909/6c7ce066-2ecc-41c8-84b4-6993cb3d3556)
 
 #### Pick Color and figure
+![image](https://github.com/yaraFarouk/Paint_for_kids_game/assets/142579909/aec21beb-9d72-41e8-a0a6-960deec7a6d8)
 
 ### Note
 
